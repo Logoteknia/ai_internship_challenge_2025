@@ -1,0 +1,54 @@
+{
+    "image_00.png": ["Tervetuloa!"],
+    "image_01.png": [
+        "Tämä rekrytointitehtävä auttaa meitä selvittämään, miten ratkaiset ongelmia, jotka liittyvät LLM-mallien tulosten soveltamiseen. Testidata sisältää helppoja ja vaikeita tapauksia, eikä ratkaisun tarvitse toimia täydellisesti kaikille tapauksille. Tärkeämpää on nähdä, miten olet lähestynyt ongelmaa."
+    ],
+    "image_02.png": [
+        "Mukautettu tila",
+        "Navigointi",
+        "Piilota navigointivalikko",
+        "Jatka siitä mihin jäit",
+        "Avaa toiminto"
+    ],
+    "image_03.png": [
+        "Oikein mukavaa päivää, toivottavasti matkasi sujui hyvin.",
+        "Huomioi nopeusrajoitus",
+        "Tärkeitä ohjeita",
+        "- Lue tarkasti",
+        "Kirjoita otsikko"
+    ],
+    "image_04.png": [
+        "Tallennetaanko muutokset?",
+        "Voit tallentaa uudet asetukset ennen tehtävän sulkemista.",
+        "Peruuta",
+        "Älä tallenna",
+        "Tallenna",
+        "Aloita uusi tehtävä"
+    ],
+    "image_05.png": ["TUPAKOINTI KIELLETTY kiinteistön alueella"],
+    "image_06.png": ["Työmaa-alue", "Asiattomilta pääsy kielletty"],
+    "image_07.jpg": [
+        "Vastapaino",
+        "Geosynkroninen rata",
+        "Hissin massakeskipiste",
+        "Vaijeri",
+        "Kiipijä",
+        "Maa"
+    ],
+    "image_08.png": [
+        "elektronit",
+        "suolasilta",
+        "sinkki-ionit",
+        "sulfaatti-ionit",
+        "sinkkielektrodi",
+        "kuparielektrodi",
+        "sinkkisulfaattiliuos",
+        "kupari(II)sulfaattiliuos",
+        "(-) anodi hapettuminen",
+        "(+) katodi pelkistyminen"
+    ],
+    "image_09.jpg": ["Automaattinen liikennevalvonta", "Poliisi"],
+    "image_10.jpg": ["Jälki-istunto"],
+    "image_11.png": ["Korkeajännite"],
+    "image_12.png": ["Ei saa töhriä"]
+}
