@@ -90,3 +90,15 @@ Show us your process. Tell us what worked, what didn’t, and what you'd improve
 ## Questions?
 
 If anything is unclear, explain your reasoning in the explanation file — we value engineering judgment and creativity more than perfection.
+
+## Disclaimer
+
+By submitting your solution to this challenge, you agree to the following:
+
+You confirm that the submitted code and materials are your own original work or based on openly licensed components (e.g. MIT, Apache 2.0, CC0).
+
+You grant Logoteknia Oy a non-exclusive, royalty-free, worldwide license to evaluate, review, and test your submission for recruitment purposes.
+
+You understand that similar ideas or implementations may be developed independently by others or already exist in our codebase.
+
+Submission does not grant Logoteknia Oy ownership or commercial rights unless separately agreed in writing.
